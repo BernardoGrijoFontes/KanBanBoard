@@ -1,0 +1,30 @@
+{
+    "projeto": "Bolo de chocolate",
+    "colunas":[
+        {
+            "titulo": "A fazer",
+            "wip": null,
+            "cards": [
+                {"id": "card05", "texto": "Quebrar ovos","progresso": 0},
+                {"id": "card06", "texto": "Adicione a farinha","progresso": 0}
+            ]
+        },
+        {
+            "titulo": "Fazendo",
+            "wip": 3,
+            "cards": [
+                {"id": "card02", "texto": "Adicione chocolate","progresso": 20},
+                {"id": "card03", "texto": "Bate a massa","progresso": 30},
+                {"id": "card04", "texto": "Adicionar recheio","progresso": 40}
+            ]
+        },
+        {
+            "titulo": "Feito",
+            "wip": null,
+            "cards": [
+                {"id": "card01", "texto": "Untar a forma","progresso": 100},
+                {"id": "card00", "texto": "Assar","progresso": 100}
+            ]
+        }
+    ]
+}
