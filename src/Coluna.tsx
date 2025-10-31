@@ -1,5 +1,6 @@
 import type { ColunaType } from "./App";
 import { Card } from "./Card";
+import "./Coluna.css"
 
 type ColunaProps = {
     coluna: ColunaType;

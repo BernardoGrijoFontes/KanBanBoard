@@ -1,4 +1,5 @@
 import type { CardType } from "./App";
+import "./Card.css"
 
 type CardProps = {
     card: CardType;
