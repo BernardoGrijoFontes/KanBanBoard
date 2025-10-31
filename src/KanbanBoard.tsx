@@ -1,5 +1,6 @@
 import type { KanbanBoardType } from "./App";
 import { Coluna } from "./Coluna";
+import "./KanbanBoard.css";
 
 type KanbanBoardProps = {
     quadro: KanbanBoardType;
